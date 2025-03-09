@@ -1,16 +1,40 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**fatimafayad3/fatimafayad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mathematics student** passionate about math, algorithms, and problem-solving. Here, you'll find my projects, experiments, and contributions related to math, programming, and data science.
 
-Here are some ideas to get you started:
+## About Me �
+- 🎓 Studying **Mathematics**.
+- 💻 Interested in **algorithms**, **data analysis**, and **mathematical modeling**.
+- 🌱 Always learning and exploring new concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills 🛠️
+- **Math**: Linear Algebra, Calculus, Probability, Optimization.
+- **Programming**: Python (NumPy, Pandas, SymPy), R, MATLAB, LaTeX.
+- **Tools**: Jupyter, Git, Data Visualization, Machine Learning.
+
+---
+
+## Projects 📂
+1. **Numerical Methods for ODEs/PDEs**  
+   - Implemented Euler's method, Runge-Kutta, and finite difference methods.
+
+2. **Linear Regression from Scratch**  
+   - Built a linear regression model using Python.
+
+3. **Prime Number Generator**  
+   - Efficient prime number generation using the Sieve of Eratosthenes.
+
+4. **Fractal Visualization**  
+   - Visualized fractals like the Mandelbrot set using Python.
+
+---
+
+## Goals for 2025 🎯
+- Learn **machine learning** foundations.
+- Contribute to open-source math/data science projects.
+- Participate in **Kaggle competitions**.
+
+--
+⭐️ From [Fatima Fayad]
